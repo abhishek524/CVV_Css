@@ -1,0 +1,88 @@
+body {
+  color: #40514e;
+  margin: 0%;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+.container {
+  background-color: #66bfbf;
+  position: relative;
+}
+.topname {
+  font-family: cursive;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+p {
+  line-height: 2;
+}
+hr {
+  border: dotted;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 100px auto;
+  color: rgb(150, 149, 149);
+}
+a {
+  color: #076e71;
+  margin: 10px 20px;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.85rem;
+  padding: 20px 0px;
+}
+h2 {
+  color: #076e71;
+}
+h1 {
+  color: #076e71;
+  margin-top: 50px;
+  font-size: 3 rem;
+}
+h3 {
+  color: #246d6f;
+}
+.bottomcloud {
+  position: absolute;
+  left: 450px;
+}
+.topcloud {
+  position: relative;
+  left: 400px;
+  margin-top: 20px;
+}
+.image {
+  border-radius: 100%;
+  height: 200px;
+}
+.image1 {
+  width: 170px;
+  border-radius: 100%;
+  float: left;
+  margin: auto 20px 20px auto;
+}
+.image2 {
+  width: 170px;
+  border-radius: 100%;
+  float: right;
+  margin: auto 20px 20px auto;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 140px auto;
+  text-align: left;
+  line-height: 2;
+}
